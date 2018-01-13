@@ -14,14 +14,32 @@ li {
 	margin: 0 auto;
 	max-width: 1200px;
 }
-
 .languages {
 	display: flex;
 	justify-content: center;
 }
-
 .languages li {
 	cursor: pointer;
 	font-weight: bold;
 	margin: 10px;
+}
+.popular-list {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.popular-item {
+	margin-left: 20px;
+	text-align: center;
+}
+.popular-rank {
+	font-size: 20px;
+	margin: 10;
+}
+.space-list-items {
+	margin-bottom: 7px;
+}
+.avatar {
+	border-radius: 50%;
+	width: 150px;
 }
