@@ -7,7 +7,7 @@
 <h2 align="center">Algorithm based off of followers and stars </h2>
 <br>
 
-Demo it live [HERE](https://tylers-github-battle.firebaseapp.com/)
+<h2 align="center">Demo it live<a href='https://hidden-refuge-93553.herokuapp.com/'>HERE</a></h2>
 
 <p align="center">
     <img src="/app/assets/battleDemo.gif">
