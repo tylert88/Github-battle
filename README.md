@@ -7,7 +7,7 @@
 <h2 align="center">Algorithm based off of followers and stars </h2>
 <br>
 
-<h2 align="center">Demo</h2>
+<h2 align="center">Demo it [HERE](https://tylers-github-battle.firebaseapp.com/)</h2>
 
 <p align="center">
     <img src="/app/assets/battleDemo.gif">
